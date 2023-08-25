@@ -21,3 +21,7 @@ A collection of data sets assembled by faculty members in the Department of Bios
 # [Thesis template](https://github.com/IowaBiostat/thesis-template)
 
 A GitHub repository providing a template for writing a LaTeX thesis that conforms to University of Iowa formatting guidelines. Just clone the repository, replace `chap1.tex` with your chapter 1, and so on.
+
+# [Project workflow](https://github.com/IowaBiostat/project-workflow)
+
+Some stuff on workflow and organization for statistical projects.
