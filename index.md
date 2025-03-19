@@ -22,6 +22,6 @@ A collection of data sets assembled by faculty members in the Department of Bios
 
 A GitHub repository providing a template for writing a LaTeX thesis that conforms to University of Iowa formatting guidelines. Just clone the repository, replace `chap1.tex` with your chapter 1, and so on.
 
-# [Slides template (Beamer/rmd)](https://github.com/IowaBiostat/ui-latex)
+# [Slides template (Beamer/rmd)](https://github.com/IowaBiostat/ui_latex)
 
 A template for creating Beamer slides that are consistent with the University of Iowa brand manual colors. There is a version for Overleaf (or other LaTeX editor) in `main.tex`, and there is an R markdown version in `ui_beamer.Rmd` -- both of these create Beamer slides.
